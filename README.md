@@ -30,7 +30,7 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
   <h1>My GitHub Stats!</h1>
   
   <p1>
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rami&theme=highcontrast)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=ramisj12&theme=highcontrast)
  </p1>
  
 
