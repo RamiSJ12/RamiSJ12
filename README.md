@@ -13,10 +13,27 @@
 - Email rami@ramisj.dev
 - Email rami@synopsysdata.com
   </p1>
+  <h1>About me!</h1>
+  <p1>
+ 
+- 👋 Hi, I’m Rami;
+- 👀 I’m interested in Technology & Science;
+- 🌱 I’m currently working as Software Engineer, specialist in "Medical Software & Systematic";
+- 💞️ I’m looking to collaborate on any project related to development and integraiton;
+- 📫 How to reach me @
+- Twittter @https://twitter.com/RamiSJ12
+- Linkedin @https://www.linkedin.com/in/ramisalim/
+- Getrevue @https://www.getrevue.co/profile/ramisj12
+- Upwork @https://www.upwork.com/freelancers/~015be7b42911cc8278
+- Email rami@ramisj.dev
+- Email rami@synopsysdata.com
+  </p1>
+  
   <h1>My GitHub Stats!</h1>
-  <p2>
+  
+  <p1>
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rami&theme=highcontrast)
- </p2>
+ </p1>
  
 
 <!---
