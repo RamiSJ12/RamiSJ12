@@ -1,4 +1,4 @@
-<h1>Hey, everyone!</h2>
+<h1>Hey, everyone!</h1>
 <p1>
  
 - 👋 Hi, I’m Rami;
@@ -13,10 +13,9 @@
 - Email rami@ramisj.dev
 - Email rami@synopsysdata.com
   </p1>
-  
+  <h1>My GitHub Stats!</h1>
   <p2>
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rami&theme=highcontrast)
-
  </p2>
  
 
