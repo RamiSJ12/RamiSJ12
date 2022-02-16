@@ -15,7 +15,7 @@
   </p1>
   
   <p2>
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rami)
 
  </p2>
  
