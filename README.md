@@ -2,7 +2,7 @@
 <p1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -61,6 +61,8 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
 </div>
  </p1>
  </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiSJ12&layout=compact&theme=vision-friendly-dark)](https://github.com/RamiSJ12/github-readme-stats)
+
 
 <!---
 RamiSJ12/RamiSJ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
