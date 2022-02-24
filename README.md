@@ -1,4 +1,5 @@
-<h1>Hey, everyone!</h1>
+<h1>Hey, Everyone!</h1>
+
 <p1>
 
 <div id="header" align="center">
