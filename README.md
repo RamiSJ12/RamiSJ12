@@ -41,18 +41,22 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
   
  <h1>Reach me!</h1>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ramisalim/L">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/RamiSJ12">
+   <a href="https://twitter.com/RamiSJ12">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
   </a>
+  <a href="https://www.linkedin.com/in/ramisalim/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/ramisj12">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
+  </a>
    
+   <a href="https://gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+   </a>
 </div>
+ 
   <div>
   <br>
   <h1>My GitHub Stats!</h1>
@@ -62,8 +66,17 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
 </div>
  </p1>
  </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiSJ12&layout=compact&theme=vision-friendly-dark)](https://github.com/RamiSJ12/github-readme-stats)
 
+ <div>
+  <br>
+  <h1>Top Languages!</h1>
+  <p1>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramisj12&layout=compact&theme=vision-friendly-dark)](https://github.com/ramisj122/github-readme-stats)
+   
+</div>
+ </p1>
+ </br>
 
 <!---
 RamiSJ12/RamiSJ12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
