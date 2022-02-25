@@ -1,3 +1,4 @@
+
 <h1>Hey, Everyone!</h1>
 
 <p1>
@@ -37,8 +38,14 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- <br></br>
-  
+
+  <h1>Licenses!</h1>
+ <div>
+  <img alt="NPM" src="https://img.shields.io/npm/l/express?style=plastic">
+  <img alt="Hex.pm" src="https://img.shields.io/hexpm/l/plug?style=plastic">
+  <img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/l/notepad4e?style=plastic">
+ <img alt="REUSE Compliance" src="https://img.shields.io/reuse/compliance/github.com/fsfe/reuse-tool?style=plastic">
+ </div>
  <h1>Reach me!</h1>
   <div id="badges">
    <a href="https://twitter.com/RamiSJ12">
