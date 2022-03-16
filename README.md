@@ -62,6 +62,10 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
    <a href="https://gmai.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
    </a>
+   
+   <a href="https://www.ramisj.dev">
+    <img src="https://camo.githubusercontent.com/3f0cf013bae955716de75a36b76ebf78a219eaad3f88819533bd8a7725ff0429/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696b69706564696126636f6c6f723d303030303030266c6f676f3d57696b697065646961266c6f676f436f6c6f723d464646464646266c6162656c3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+   </a>
 </div>
  
   <div>
