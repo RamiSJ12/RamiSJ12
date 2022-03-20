@@ -52,6 +52,8 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
   </a>
+  
+
   <a href="https://www.linkedin.com/in/ramisalim/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -76,6 +78,14 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
     <img src="https://camo.githubusercontent.com/a5b80fe15870cf4824352fcf310a172765032dc45d61e7486384357b06841219/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50617472656f6e26636f6c6f723d464634323444266c6f676f3d50617472656f6e266c6f676f436f6c6f723d464646464646266c6162656c3d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
   </a>
+   
+   <a href="https://www.hackerrank.com/ramivtb06">
+    <img src="https://camo.githubusercontent.com/a922290ca0cc49837627be7d83dee7cbafb2328b5f38efdc62f9ba3858a1eede/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4861636b657252616e6b26636f6c6f723d323232323232266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d303045413634266c6162656c3d"/>
+   </a>
+ 
+<a href="https://www.upwork.com/freelancers/~015be7b42911cc8278">
+    <img src="https://camo.githubusercontent.com/77dc2a02a8445d3f9dce0ca10f5df9b34a012e17e2463199caeeb5e0083f6e45/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d"/>
+   </a>
 </div>
  
   <div>
