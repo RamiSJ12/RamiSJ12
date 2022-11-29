@@ -76,10 +76,7 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
  
  <h1>Reach me!</h1>
   <div id="badges">
-   <a href="https://twitter.com/RamiSJ12">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    
-  </a>
+  
   
 
   <a href="https://www.linkedin.com/in/ramisalim/L">
