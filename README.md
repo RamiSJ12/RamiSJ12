@@ -121,7 +121,7 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
    
 </div>
  
- 
+[![RamiSJ12's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiSJ12)](https://github.com/RamiSJ12/github-readme-stats)
 
  <div>
   
