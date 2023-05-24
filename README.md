@@ -120,9 +120,11 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
    </a>
    
 </div>
+<div>
  
 [![RamiSJ12's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiSJ12)](https://github.com/RamiSJ12/github-readme-stats)
 
+ </div>
  <div>
   
   <h1>Top Languages!</h1>
@@ -130,7 +132,20 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramisj12&layout=compact&theme=vision-friendly-dark)](https://github.com/ramisj122/github-readme-stats)
    
+   
+   </div>
+   
+   
+   <div>
+    <h1> My Stats!</h1>
+    <p1>
+     
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramisj12&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+   
 </div>
+ </p1>
  </p1>
  </br>
 
