@@ -121,18 +121,10 @@ Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Pho
    
 </div>
  
-  <div>
-  <br>
-  <h1>My GitHub Stats!</h1>
-  <p1>
-
-   ![Github stats](https://github-readme-stats.vercel.app/api?username=ramisj12&theme=highcontrast)
-</div>
- </p1>
- </br>
+ 
 
  <div>
-  <br>
+  
   <h1>Top Languages!</h1>
   <p1>
 
