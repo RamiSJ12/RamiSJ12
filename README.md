@@ -1,5 +1,5 @@
 
-<h1>Hey, Everyone!</h1>
+<h1>Hey, Folks!</h1>
 
 <p1>
 
