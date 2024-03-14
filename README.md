@@ -11,16 +11,15 @@
 </div>
   </div>
  
- 
- 
+
   <h1>About me!</h1>
   <p1>
  
 
 
-I am a specialist in Software Engineering for medical software and systematic, also Development & Integration for websites, web applications, and systems, as well as a Senior Web Developer besides that, have experience in Database Management systems and Business Information systems.
+👋 Hi there! 𝐈'𝐦 𝐑𝐚𝐦𝐢, 𝐚 𝐬𝐞𝐚𝐬𝐨𝐧𝐞𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝟏𝟎+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 across diverse industries. Proficient in 𝐉𝐚𝐯𝐚, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐏𝐇𝐏, 𝐑𝐞𝐚𝐜𝐭, 𝐚𝐧𝐝 𝐦𝐨𝐫𝐞, I've completed 273 successful projects, excelling in efficient client experiences. 💼 Specializing in 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬, 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐄-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞, I create user-centric applications driving tangible business results. 💡 From building dynamic web apps to optimizing systems, I prioritize user-focused application design that translates into real-world success.
 
-Also, a specialist in Android Apps layout from design files (Sketch, Mockup, Photoshop), developing, testing, And ready software or web or use in-app purchases (IAP) with server-side validation, use social network API, boost SEO for websites, and also Database Development and Maintenance as well as proficient in using different tools & techniques for software development life cycle, data analysis, AD-HOC report generation, and problem-solving. Good working knowledge of SQL, R, Excel, etc., as well as team management and Business Analysis.
+I am a specialist in Software Engineering for medical software and systematic, also Development & Integration for websites, web applications, and systems. Additionally, I am a Senior Web Developer with experience in Database Management systems and Business Information systems. I specialize in Android Apps layout from design files (Sketch, Mockup, Photoshop), developing, testing, and ready software or web, including in-app purchases (IAP) with server-side validation. I use social network APIs, boost SEO for websites, and handle Database Development and Maintenance. Proficient in various tools & techniques for software development life cycle, data analysis, AD-HOC report generation, and problem-solving. I have a good working knowledge of SQL, R, Excel, etc., along with team management and Business Analysis skills. Let's collaborate and bring your ideas to life! 🚀🌟
  
 <h1>Languages & Tools!</h1>
    <h3 align="left">Languages and Tools:</h3>
