@@ -7,18 +7,19 @@
  
  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://ramisjaber.wordpress.com/wp-content/uploads/2023/12/img03.jpg?w=980" width="700" height="400"/>
 </div>
   </div>
  
 
   <h1>About me!</h1>
-  <p1>
+  <p align="center"
  
 
+👋 Hi there! I'm Rami, a Full Stack Engineering Lead with over 12 years of experience crafting sophisticated web apps and software solutions, particularly in the healthcare sector. My expertise spans Java, Python, PHP, React, and more, focusing on delivering high-impact, user-centric applications. I’ve completed 273 projects, specializing in Full Stack Development, Web Apps, Software Architecture, and databases. My role involves designing and optimizing systems to effectively meet real-world needs. As a specialist in healthcare web apps and software, I excel in integrating complex systems and enhancing user experiences. Let’s work together to transform your ideas into innovative solutions! 🚀🌟
 
-👋 Hi there! I'm Rami, a seasoned Software Engineer with over 10 years of experience across diverse industries. Proficient in Java, Python, PHP, React, and more, I've completed 273 successful projects, excelling in efficient client experiences. Specializing in Full Stack Development, Web Apps, Software Architecture, and E-commerce, I create user-centric applications driving tangible business results. From building dynamic web apps to optimizing systems, I prioritize user-focused application design that translates into real-world success. Additionally, I am a Senior Web Developer specializing in medical software, web development, and system integration. With expertise in Android App development, database management, and business information systems, I handle everything from layout design to software deployment. Let's collaborate and bring your ideas to life! 🚀🌟
- 
+</p>
+
 <h1>Languages & Tools!</h1>
 
    <img src="https://camo.githubusercontent.com/d1b1b09d6ad7c4f4bc59501f93c4c14912a1ace5c2dec86324cab569939b6c0d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e67756c61722e737667" alt="angular" width="50" height="60"/>&nbsp;
