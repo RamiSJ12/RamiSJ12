@@ -7,7 +7,7 @@
  
  
 <div align="center">
-  <img src="https://ramisjaber.wordpress.com/wp-content/uploads/2023/12/img03.jpg?w=980" width="700" height="400"/>
+  <img src="https://github.com/RamiSJ12/RamiSJ12/blob/main/Screenshot%202024-08-08%20115623.png?raw=true" width="700" height="400"/>
 </div>
   </div>
  
