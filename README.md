@@ -76,14 +76,6 @@
 </div>
 
 
-
-
- <h1>GitHub stats!</h1>
-
-[![RamiSJ12's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiSJ12)](https://github.com/RamiSJ12/github-readme-stats)
-
- </div>
- <div>
   
   <h1>Top Languages!</h1>
   <p1>
