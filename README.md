@@ -84,17 +84,7 @@
    
    
    </div>
-   
-   
-   <div>
-    <h1> My Stats!</h1>
-    <p1>
-     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ramisj12&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-   
-</div>
+  
  </p1>
  </p1>
  </br>
