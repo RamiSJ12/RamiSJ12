@@ -17,7 +17,7 @@
   <p align="center"
  
 
-👋 Hi there! I'm Rami, a Full Stack Engineering Lead with over 12 years of experience crafting sophisticated web apps and software solutions, particularly in the healthcare sector. My expertise spans Java, Python, PHP, React, and more, focusing on delivering high-impact, user-centric applications. I’ve completed 273 projects, specializing in Full Stack Development, Web Apps, Software Architecture, and databases. My role involves designing and optimizing systems to effectively meet real-world needs. As a specialist in healthcare web apps and software, I excel in integrating complex systems and enhancing user experiences. Let’s work together to transform your ideas into innovative solutions! 🚀🌟
+👋 Hi there! I'm Rami, a Full Stack Engineering Lead with over 12 years of experience crafting sophisticated web apps and software solutions, particularly in all sectors. My expertise spans Java, Python, PHP, Laravel, MySQL, SQL, MongoDB, React, node, and more, focusing on delivering high-impact, user-centric applications. I’ve completed 273 projects, specializing in Full Stack Development, Web Apps, Software Architecture, and databases. My role involves designing and optimizing systems to effectively meet real-world needs. As a specialist in healthcare web apps and software, I excel in integrating complex systems and enhancing user experiences. Let’s work together to transform your ideas into innovative solutions! 🚀🌟
 
 </p>
 
