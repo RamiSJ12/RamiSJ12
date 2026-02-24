@@ -4,7 +4,7 @@
 
 ```javascript
 const rami = {
-  seeking: "Senior Full Stack Software Engineer | Business Application Developer 👨‍💻📊",
+  seeking: "AI-Powered SaaS & Business Systems Architect | Full Stack Software Engineer  👨‍💻📊",
   stack: {
     web: ["JavaScript", "React", "Node.js", "Laravel", "PHP", "Perl", "Scala"],
     backend: ["Node.js", "Laravel", "PHP", "Perl", "Scala"],
@@ -51,7 +51,3 @@ const rami = {
 
 
 </div>
-
-
-
-[![RamiSJ12's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamiSJ12&theme=gotham&area=true&hide_border=true)](https://github.com/RamiSJ12/github-readme-activity-graph)
