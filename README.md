@@ -1,5 +1,5 @@
 <h1 align="center">Rami S.</h1>
-<h3 align="center">CEO, Data Pirates Agency · CTO, Map My Pay</h3>
+<h3 align="center">CEO, Data Pirates · CTO, Map My Pay</h3>
 
 <p align="center">
   I lead a software agency that builds production-grade web applications and<br/>
