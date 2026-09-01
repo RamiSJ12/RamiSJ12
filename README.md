@@ -2,13 +2,13 @@
 <h3 align="center">CEO, Data Pirates · CTO, Map My Pay</h3>
 
 <p align="center">
-  I lead a software agency that builds production-grade web applications and<br/>
+  I lead a software company that builds production-grade web applications and<br/>
   backend systems for businesses, and I co-built Map My Pay, a salary intelligence<br/>
   platform used by 150,000+ nurses.
 </p>
 
 <p align="center">
-  <a href="https://datapirates.agency">Data Pirates Agency</a> ·
+  <a href="https://datapirates.agency">Data Pirates</a> ·
   <a href="https://mapmypay.com">Map My Pay</a> ·
   <a href="https://www.upwork.com/freelancers/ramisj12">Upwork</a> ·
   <a href="https://www.linkedin.com/in/ramisj12">LinkedIn</a> ·
@@ -17,9 +17,9 @@
 
 ---
 
-### 🏴 Data Pirates Agency
+### 🏴 Data Pirates
 
-Software development and IT solutions agency. We build web applications,
+Software development and IT solutions company. We build web applications,
 backend systems, and internal tools for businesses that need software that
 ships and scales — not prototypes that stall.
 
